@@ -1,0 +1,5 @@
+  File "/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard/offboard_control.py", line 175
+    self.current_position[2]
+    ^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

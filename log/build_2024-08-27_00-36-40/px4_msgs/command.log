@@ -1,0 +1,4 @@
+Invoking command in '/home/haivubui/px4_ws/build/px4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/haivubui/px4_ws/install/px4_offboard:/opt/ros/humble /usr/bin/cmake --build /home/haivubui/px4_ws/build/px4_msgs -- -j4 -l4
+Invoked command in '/home/haivubui/px4_ws/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/haivubui/px4_ws/install/px4_offboard:/opt/ros/humble /usr/bin/cmake --build /home/haivubui/px4_ws/build/px4_msgs -- -j4 -l4
+Invoking command in '/home/haivubui/px4_ws/build/px4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/haivubui/px4_ws/install/px4_offboard:/opt/ros/humble /usr/bin/cmake --install /home/haivubui/px4_ws/build/px4_msgs
+Invoked command in '/home/haivubui/px4_ws/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/haivubui/px4_ws/install/px4_offboard:/opt/ros/humble /usr/bin/cmake --install /home/haivubui/px4_ws/build/px4_msgs

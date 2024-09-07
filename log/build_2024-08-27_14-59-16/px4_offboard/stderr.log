@@ -1,0 +1,5 @@
+  File "/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard/offboard_control.py", line 126
+    if self.offboard_setpoint_counter >10
+                                         ^
+SyntaxError: expected ':'
+

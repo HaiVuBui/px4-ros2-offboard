@@ -1,0 +1,26 @@
+[0.848s] Invoking command in '/home/haivubui/px4_ws/src/px4-offboard': AMENT_PREFIX_PATH=/home/haivubui/px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/haivubui/px4_ws/install/px4_msgs LD_LIBRARY_PATH=/home/haivubui/px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/haivubui/px4_ws/build/px4_offboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages:/home/haivubui/px4_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/px4_offboard build --build-base /home/haivubui/px4_ws/build/px4_offboard/build install --record /home/haivubui/px4_ws/build/px4_offboard/install.log --single-version-externally-managed install_data
+[1.094s] running egg_info
+[1.109s] writing ../../build/px4_offboard/px4_offboard.egg-info/PKG-INFO
+[1.110s] writing dependency_links to ../../build/px4_offboard/px4_offboard.egg-info/dependency_links.txt
+[1.110s] writing entry points to ../../build/px4_offboard/px4_offboard.egg-info/entry_points.txt
+[1.110s] writing requirements to ../../build/px4_offboard/px4_offboard.egg-info/requires.txt
+[1.111s] writing top-level names to ../../build/px4_offboard/px4_offboard.egg-info/top_level.txt
+[1.142s] reading manifest file '../../build/px4_offboard/px4_offboard.egg-info/SOURCES.txt'
+[1.143s] adding license file 'LICENSE'
+[1.144s] writing manifest file '../../build/px4_offboard/px4_offboard.egg-info/SOURCES.txt'
+[1.144s] running build
+[1.145s] running build_py
+[1.145s] copying px4_offboard/offboard_control.py -> /home/haivubui/px4_ws/build/px4_offboard/build/lib/px4_offboard
+[1.145s] running install
+[1.150s] running install_lib
+[1.166s] copying /home/haivubui/px4_ws/build/px4_offboard/build/lib/px4_offboard/offboard_control.py -> /home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard
+[1.167s] byte-compiling /home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard/offboard_control.py to offboard_control.cpython-310.pyc
+[1.167s] running install_data
+[1.167s] running install_egg_info
+[1.184s] removing '/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard-0.0.0-py3.10.egg-info' (and everything under it)
+[1.188s] Copying ../../build/px4_offboard/px4_offboard.egg-info to /home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard-0.0.0-py3.10.egg-info
+[1.188s] running install_scripts
+[1.354s] Installing offboard_control script to /home/haivubui/px4_ws/install/px4_offboard/lib/px4_offboard
+[1.355s] Installing visualizer script to /home/haivubui/px4_ws/install/px4_offboard/lib/px4_offboard
+[1.355s] writing list of installed files to '/home/haivubui/px4_ws/build/px4_offboard/install.log'
+[1.382s] Invoked command in '/home/haivubui/px4_ws/src/px4-offboard' returned '0': AMENT_PREFIX_PATH=/home/haivubui/px4_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/haivubui/px4_ws/install/px4_msgs LD_LIBRARY_PATH=/home/haivubui/px4_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/haivubui/px4_ws/build/px4_offboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages:/home/haivubui/px4_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/px4_offboard build --build-base /home/haivubui/px4_ws/build/px4_offboard/build install --record /home/haivubui/px4_ws/build/px4_offboard/install.log --single-version-externally-managed install_data

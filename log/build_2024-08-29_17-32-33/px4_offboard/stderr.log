@@ -1,0 +1,2 @@
+/home/haivubui/px4_ws/install/px4_offboard/lib/python3.10/site-packages/px4_offboard/offboard_control.py:155: SyntaxWarning: 'int' object is not callable; perhaps you missed a comma?
+  +(self.current_position[1]-d_position[1])**2
